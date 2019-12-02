@@ -1,0 +1,7 @@
+
+#Ignoring all bin folder anywhere in project
+**/bin
+
+#Ignore all file matching following anywhere in project
+*.classpath
+*.project
